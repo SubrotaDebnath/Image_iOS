@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello from subrota! Here he is gonna apply all terms of 'Async Image' module for further use. ")
+        Text("Hello from subrota! Here he is gonna apply all terms of 'Async Image' module for further use.")
             .padding()
     }
 }
